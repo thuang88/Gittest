@@ -1,2 +1,4 @@
 # Gittest
-test
+Test
+
+This is a test file.
